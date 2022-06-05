@@ -3,3 +3,4 @@ funcionalidade
 X
 criada
 no branch FUNCIONALIDADE_NOVA
+enviando a funcionalidade B

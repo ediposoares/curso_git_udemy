@@ -20,7 +20,7 @@ __Melhoria 1__, _melhoria 2_
 ### Linguagens de funcionalidades a desenvolver:
 **Lista simples ordenadas (OL)** 
 1. Area de membros
- 1. Login diferente
- 2. Css diferente
+    1. Login diferente
+    2. Css diferente
 2. Integracao com pagamento
 3. Sistema de bonus

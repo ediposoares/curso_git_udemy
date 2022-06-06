@@ -41,3 +41,11 @@ https://www.github.com
 
 #### Hyperlink em imagem
 [![One piece EX](https://onepieceex.net/wp-content/uploads/2020/06/opex_momo.png.webp)](https://onepieceex.net/)
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```

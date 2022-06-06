@@ -38,3 +38,6 @@ https://www.github.com
 
 #### Hyperlink
 [Google](https://www.google.com)
+
+#### Hyperlink em imagem
+[![One piece EX](https://onepieceex.net/wp-content/uploads/2020/06/opex_momo.png.webp)](https://onepieceex.net/)

@@ -57,7 +57,7 @@ IDENTIFICATION DIVISION.
 
 
 ## Lista de tarefas - task list
-- [ x ] Area de membros
+- [x] Area de membros
 - [ ] Integracao com outros pagamentos
 - [ ] Sistema de bonus
-- [ x ] CSS do rodape
+- [x] CSS do rodape

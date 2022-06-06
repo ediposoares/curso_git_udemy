@@ -29,3 +29,6 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logo do TN3270](img/tnlogo.png)
+
+#### Imagem externa
+![Logo do One Piece](https://onepieceex.net/wp-content/uploads/2020/06/opex_momo.png.webp)

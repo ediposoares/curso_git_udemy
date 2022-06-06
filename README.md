@@ -54,3 +54,10 @@ function soma(a, b){
 IDENTIFICATION DIVISION.
 01 TESTE PIC X(9) VALUE SPACES.
 ```
+
+
+## Lista de tarefas - task list
+- [ x ] Area de membros
+- [ ] Integracao com outros pagamentos
+- [ ] Sistema de bonus
+- [ x ] CSS do rodape

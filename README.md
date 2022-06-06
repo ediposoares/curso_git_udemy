@@ -24,3 +24,8 @@ __Melhoria 1__, _melhoria 2_
     2. Css diferente
 2. Integracao com pagamento
 3. Sistema de bonus
+
+
+#### Imagem local
+
+![Logo do TN3270](img/tnlogo.png)

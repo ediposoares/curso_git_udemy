@@ -49,3 +49,8 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+```cobol
+IDENTIFICATION DIVISION.
+01 TESTE PIC X(9) VALUE SPACES.
+```
